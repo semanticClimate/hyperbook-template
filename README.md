@@ -43,3 +43,30 @@ IPCC #semanticClimate HTML source with ids - to be confirmed - Possibly this fil
 
 Vivliostyle info on manifests - https://docs.vivliostyle.org/#/vivliostyle-viewer#web-publications-multi-html-documents
 
+## Support information
+
+* How to: https://www.print-css.rocks/
+* CSS Paged Media Module Level 3 [W3C Working Draft](https://www.w3.org/standards/types#WD), 14 September 2023
+* W3C CSS Generated Content for Paged Media Module - Working Draft, 25 January 2024: https://www.w3.org/TR/css-gcpm-3/#document-sequence-selectors
+* 2013 W3C Feature list - https://www.w3.org/Style/2013/paged-media-tasks.html
+* Mozilla multi-column layout - https://www.w3.org/TR/css-multicol-1/ < Implemented by Vivlio . https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_multicol_layout
+* W3C spec CSS Multi-column Layout Module Level 2
+[Editor’s Draft](https://www.w3.org/standards/types#ED), 5 October 2021 - https://drafts.csswg.org/css-multicol-2/
+* Page Floats - https://drafts.csswg.org/css-page-floats/
+
+## Vivliostyle supports
+
+More: https://docs.vivliostyle.org/#/supported-css-features
+
+* CSS Multi-column Layout Module Level 1 - https://www.w3.org/TR/css-multicol-1/
+* CSS Paged Media Module Level 3 - https://www.w3.org/TR/css-page-3/
+* CSS Generated Content for Paged Media (GCPM) 3 - https://www.w3.org/TR/css-gcpm-3/
+* CSS Fonts 3 - https://www.w3.org/TR/css-fonts-3/
+* CSS Fragmentation 3 - https://www.w3.org/TR/css-break-3/
+* CSS Text 3 - https://www.w3.org/TR/css-text-3/
+
+
+
+
+
+
