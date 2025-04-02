@@ -66,6 +66,54 @@ More: https://docs.vivliostyle.org/#/supported-css-features
 * CSS Text 3 - https://www.w3.org/TR/css-text-3/
 
 
+## Vivliostyle
+
+Use Vivliostyle [Latest Stable Release](https://github.com/vivliostyle/vivliostyle.js/releases/latest) Note: it is importent only to use the Latest Stable Release. See: Assets - vivliostyle-viewer-x.xx.x.zip (download this ZIP file)
+
+Download the .ZIP file.
+
+Check regularly for updates.
+
+Overwrite your local install when updates available.
+
+**IMPORTANT!**
+
+Unzip the Vivliostyle install in the top level of the directory where you store all your Git repos, so that all the Git repos are one level below your Vivliostyle install. This is because the Localhost server can only access directories in the same directory, or directories below it.
+
+This should look something like this:
+
+`/All my Git repos directory/`
+
+Install here:
+
+Above all Git repo directories...
+
+`/repo1/`
+
+`/repo1/`
+
+`/repo1/`
+
+Once installed launch Vivliostyle from a terminal with:
+
+`./start-viewer`
+
+OR
+
+`./start-webserver`
+
+Vivlio will launch at
+
+http://127.0.0.1:8000/
+
+In the Vivlio console enter the path to your publication index.html file and have book mode and render all files turned on.
+
+Your book path will be:
+
+../repo-directory-name/uhtml/index.html
+
+Your book will now render.
+
 
 
 
