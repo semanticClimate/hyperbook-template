@@ -66,7 +66,9 @@ More: https://docs.vivliostyle.org/#/supported-css-features
 * CSS Text 3 - https://www.w3.org/TR/css-text-3/
 
 
-## Vivliostyle
+## Vivliostyle: Using locally and online
+
+### Locally
 
 Use Vivliostyle [Latest Stable Release](https://github.com/vivliostyle/vivliostyle.js/releases/latest) Note: it is importent only to use the Latest Stable Release. See: Assets - vivliostyle-viewer-x.xx.x.zip (download this ZIP file)
 
